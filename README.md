@@ -1,6 +1,8 @@
 # SSP Kontakt Scraper
 
-Et lille Flask-baseret værktøj, der søger kommune for kommune på SSP-Samrådets repræsentantside og eksporterer resultater som JSON, CSV og Excel.
+Et lille Flask-baseret værktøj, der søger kommune for kommune på SSP-Samrådets repræsentantside og eksporterer resultater som JSON, CSV og Excel. Til brug for programmører der ønsker at bruge dette, for at beskytte børn og unge i forbindelse med chat, hvor mistrivsel opdages af AI chat bot. 
+
+Klik billedet for at hente DEMO VIDEO
 
 [![Watch the demo](thumbnail.png)](demo.mp4)
 
