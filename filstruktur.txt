@@ -1,5 +1,0 @@
-ssp_scraper_app/
-├── app.py
-├── requirements.txt
-├── README.md
-└── ssp_kontakter.json (genereres)
