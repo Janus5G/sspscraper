@@ -2,6 +2,8 @@
 
 Et lille Flask-baseret værktøj, der søger kommune for kommune på SSP-Samrådets repræsentantside og eksporterer resultater som JSON, CSV og Excel.
 
+[![Watch the demo](thumbnail.png)](demo.mp4)
+
 ## Hvad den gør
 
 Applikationen gør dette for hver af de 98 kommuner:
