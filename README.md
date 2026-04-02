@@ -4,6 +4,9 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)](https://flask.palletsprojects.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.15-orange.svg)](https://www.selenium.dev/)
 
+Denne har for mange udeladelser har fået lavet en ny der henter alle oplysninger på 1 minut og 15 sekunder for alle 98 kommuner og gemmer dem i 
+et brugbart format mangler lidt detaljer så bliver den opdateret.
+
 **Automatisk indsamling af SSP-medarbejderes kontaktoplysninger fra alle 98 danske kommuner.**  
 Scraperen bruger en kombination af statisk HTTP, Selenium (JavaScript-håndtering) og DuckDuckGo-fallback for at finde den rigtige SSP-side – og udtrækker herefter e-mails og telefonnumre.
 
